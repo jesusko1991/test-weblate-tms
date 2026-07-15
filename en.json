@@ -2,5 +2,6 @@
     "APP_TITLE": "My app",
     "GREETING": "Hi",
     "newone": "newone",
-    "newnew": "newnew"
+    "newnew": "newnew",
+    "customizing.setting.FEATURE_WATER.label": "FEATURE_WATER WEBLATE EN"
 }
